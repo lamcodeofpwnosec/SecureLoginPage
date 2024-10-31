@@ -1,13 +1,8 @@
-# Login Form
-## [Watch it on youtube](https://youtu.be/Rkt3rWgi_zk)
-### Login form
+# Secure Login Page in HTML & CSS
+This project features a secure login system built from the ground up using HTML and CSS. It is designed with robust security measures to protect against common web vulnerabilities, such as:
+ 1. **Cross-Site Scripting (XSS):** The system includes input validation and filtering mechanisms to prevent malicious script execution by blocking unsafe characters and sanitizing user input.
+ 1. **CSRF (Cross-Site Request Forgery) Protection:** Token-based security ensures that only legitimate requests are processed.
+ 1. **Content Security Policy (CSP):** A default security policy is implemented to restrict which resources can be loaded, reducing the risk of code injection.
 
-- Login Form Using HTML & CSS
-- Contains a beautiful background image.
-- With glass effect in the login form.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+The project prioritizes safety and simplicity, making it a useful example for learning and applying web security best practices. Explore how you can build a secure user authentication system while adhering to modern security standards.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
-
-![preview img](/preview.png)
